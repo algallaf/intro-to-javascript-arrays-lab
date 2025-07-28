@@ -129,7 +129,7 @@ Note: The final result should log as:
 Complete Exercise 9 in the space below:
 */
 
-const allFoods = foods.join(' ');
+const allFoods = foods.join(' -> ');
 
 console.log('Exercise 9 result:', allFoods);
 
